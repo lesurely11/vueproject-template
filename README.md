@@ -7,8 +7,6 @@
 #### 技术栈
 vue2 + vuex + vue-router + webpack + ES6/7 + axios + elementUI + 阿里图标iconfont
 
-#### 项目预览
-[http://nmgwap.gitee.io/vueproject/#/login](http://nmgwap.gitee.io/vueproject/#/login)
 
 
 #### 说明
